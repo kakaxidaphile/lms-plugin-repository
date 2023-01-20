@@ -6,7 +6,7 @@
 	</details>
 
 	<plugins>
-		<plugin name="C3POnew" creator="Unsupported" email="" link="https://youtube.com" maxTarget="8.*" minTarget="7.4.0" sha="209f65c1fac52a5abac98bd17b04c54c3132f4dc" url="https://raw.githubusercontent.com/kakaxidaphile/lms-plugins/main/C3PO-v2.03.02.zip" version="2.15.676">
+		<plugin name="C3POnew" creator="Unsupported" email="" link="https://youtube.com" maxTarget="8.*" minTarget="7.4.0" sha="3fd5e708b83d8db98554ff9630b592f2686da141" url="https://raw.githubusercontent.com/kakaxidaphile/lms-plugins/main/C3PO-v2.03.02.zip" version="2.15.676">
 			<changes lang="EN">- Available for free, no longer requires a license
 				- Compatible with LMS 7.9
 			</changes>
